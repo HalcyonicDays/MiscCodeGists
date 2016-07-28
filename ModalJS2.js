@@ -1,4 +1,3 @@
-/*
 var modal = (function(){
   var method = {},
       $overlay,
@@ -65,4 +64,3 @@ var modal = (function(){
 
   return method;
 }());
-*/
