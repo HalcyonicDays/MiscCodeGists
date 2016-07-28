@@ -64,5 +64,3 @@ var modal = (function(){
 
   return method;
 }());
-
-document.write("Import from JS file successful!")
